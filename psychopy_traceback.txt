@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Program Files\PsychoPy\lib\site-packages\psychopy\app\runner\runner.py", line 609, in stopTask
+    self.stopFile(event)
+  File "C:\Program Files\PsychoPy\lib\site-packages\psychopy\app\runner\scriptProcess.py", line 210, in stopFile
+    self.scriptProcess.terminate()
+  File "C:\Program Files\PsychoPy\lib\site-packages\psychopy\app\jobs.py", line 342, in terminate
+    retcode = self._process.returncode
+AttributeError: 'NoneType' object has no attribute 'returncode'
