@@ -1,0 +1,43 @@
+PsychoPy 2024.2.4
+
+Paths to files on the system:
+    userPrefsFile: C:\Users\elsvalte\AppData\Roaming\psychopy3\userPrefs.cfg
+    appDataFile: C:\Users\elsvalte\AppData\Roaming\psychopy3\appData.cfg
+    demos: C:\Program Files\PsychoPy\lib\site-packages\psychopy\demos
+    appFile: C:\Program Files\PsychoPy\lib\site-packages\psychopy\app\PsychoPy.py
+
+System Info:
+     Operating System: Windows-10-10.0.26100-SP0
+     Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+     CPU freq (MHz): 2419.0
+     CPU cores: 4 (physical), 8 (logical)
+     Installed memory: 16844550144 (Total), 5775585280 (Available)
+
+Python info:
+     Executable path: C:\Program Files\PsychoPy\pythonw.exe
+     Version: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+     (Selected) Installed Packages:
+         numpy (1.26.4)
+         scipy (1.14.1)
+         matplotlib (3.9.2)
+         pyglet (1.4.11)
+         PyGLFW [not installed]
+         pyo [not installed]
+         psychtoolbox (3.0.19.14)
+         wxPython (4.2.2)
+
+OpenGL Info:
+     Vendor: Intel
+     Rendering engine: Intel(R) Iris(R) Xe Graphics
+     OpenGL version: 4.6.0 - Build 32.0.101.6314
+     Shaders supported:  True
+     (Selected) Extensions:
+         GL_ARB_multitexture: True
+         GL_EXT_framebuffer_object: True
+         GL_ARB_fragment_program: True
+         GL_ARB_shader_objects: True
+         GL_ARB_vertex_shader: True
+         GL_ARB_texture_non_power_of_two: True
+         GL_ARB_texture_float: True
+         GL_STEREO: False
+     max vertices in vertex array: 1048576
